@@ -1,0 +1,18 @@
+.regular_class {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, Tahoma, sans-serif;
+}
+#id_1 {
+    color: blue;
+    font-size: 36px;
+}
+.cool_class {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 24px;
+}
+#id_2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    text-decoration-style: solid;
+}
